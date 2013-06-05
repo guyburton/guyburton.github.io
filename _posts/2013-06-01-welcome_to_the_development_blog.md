@@ -13,7 +13,7 @@ A quick section on the team behind the crossword game.
 
 ![Photo of Guy](/images/me.png)
 
-Guy Burton (Founder)
+**Guy Burton** *(Founder)*
 
 Currently working in the financial sector in London, Guy is a software polyglot, having delivered major projects in Java, C++, C#, Haskell, Python, Javascript, Assembly, and ASP.NET. He is currently passionate about software quality- taking a holistic approach to test driven development, behavioural specification and quality assurance.
 
