@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Crossword Game development blog
+title: Welcome to the Crossword Game development blog
 ---
 
-# The Crossword Game development blog
+# Welcome to the Crossword Game development blog
 
 **Welcome** to the new development blog for the crossword game. This is a space for the development team (just me!) to show details of the work in progress on the project. I'll be posting screenshots, details of gameplay, and other snippets of information, and I'm hoping that I will be able to get some of your feedback on what you see here.
 
