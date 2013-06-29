@@ -19,9 +19,10 @@ Currently working in the financial sector in London, Guy is a software polyglot,
 
 Guy has worked on major software projects in the mobile games space, notably a stint as a platform engineer at Ideaworks working on the Marmalade cross platform SDK.
 
+Contact Guy on Twitter [@guy127917](http://www.twitter.com/guy127917)
 
 ## Development Information
 
 The crossword game is being developed with the Appcelerator Titanium SDK. This is a cross platform mobile application SDK using javascript within the Node.js framework to deliver rapid development for the iOS, Android and mobile web platforms.
 
-Watch this space for more information.
+Watch this space for more information or follow the Twitter feed [@crossword_game](http://www.twitter.com/crossword_game)
